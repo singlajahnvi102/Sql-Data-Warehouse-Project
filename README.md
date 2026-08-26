@@ -55,13 +55,13 @@ Source Systems
        ▼
 Analytical Reporting
 
-📊 Project Documentation & Data Models
+## 📊 Project Documentation & Data Models
 
 The project documentation includes the following diagrams:
 
-- "Data Model" (Docs/Data_Model.png) — Gold-layer Star Schema showing fact and dimension relationships.
-- "Data Integration Model" (Docs/data_integration_model.png) — Shows how tables from different source systems are related and integrated.
-- "Data Flow" (Docs/data_flow.png) — Shows the movement of data through the Bronze, Silver, and Gold layers.
+- [Data Model](Docs/Data_Model.png) — Gold-layer Star Schema showing fact and dimension relationships.
+- [Data Integration Model](Docs/data_integration_model.png) — Shows how tables from different source systems are related and integrated.
+- [Data Flow](Docs/data_flow.png) — Shows the movement of data through the Bronze, Silver, and Gold layers.
 
 ---
 
