@@ -59,8 +59,8 @@ Analytical Reporting
 
 The project documentation includes the following diagrams:
 
-- [Data Model](Docs/Data_Model.png) — Gold-layer Star Schema showing fact and dimension relationships.
-- [Data Integration Model](Docs/data_integration_model.png) — Shows how tables from different source systems are related and integrated.
+- [Data Model](/Docs/Data_Model.png) — Gold-layer Star Schema showing fact and dimension relationships.
+- [Data Integration Model](./Docs/data_integration_model.png) — Shows how tables from different source systems are related and integrated.
 - [Data Flow](Docs/data%20flow.png) — Shows the movement of data through the Bronze, Silver, and Gold layers.
 ---
 
